@@ -1,5 +1,5 @@
 {
-    "name": "antonkril/module-worshop-sample",
+    "name": "antonkril/module-workshop-sample",
     "type": "magento2-module",
     "autoload": {
         "files": [
