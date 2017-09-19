@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<page>
+    <head>
+        <script src="bundles/catalog.js" />
+    </head>
+</page>
